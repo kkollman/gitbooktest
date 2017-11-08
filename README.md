@@ -1,3 +1,20 @@
-# My Awesome Book
+# VD books test
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is where I start to test out this app
+
+
+
+some bold text
+
+
+
+`some code`
+
+`really importante`
+
+---
+
+> ble ble ble cytacik
+
+
+
